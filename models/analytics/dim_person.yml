@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: dim_person
+    columns:
+      - name: person_key
+        tests:
+          - unique
+          - not_null
+      
+      - name: full_name
+        tests:
+          - not_null
