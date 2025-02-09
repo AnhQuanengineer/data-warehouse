@@ -1,6 +1,9 @@
 # Mai Anh Quân Data Warehouse Project
 
 Hello! I'm Quân, and this is my project to show my data warehouse skills.
+![Image](https://github.com/user-attachments/assets/dc6d45c7-003d-41b7-8aec-39e8e3f14878)
+
+![Image](https://github.com/user-attachments/assets/79431142-af8d-4ecb-9fe4-2aa55581828c)
 
 ## 🎯 Knowledge & techniques that I achieved
 
